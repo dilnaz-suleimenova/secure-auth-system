@@ -23,7 +23,7 @@ The system includes a **React frontend**, **Node.js backend**, and a full set of
 |------|------|------------------|
 | **Temirlan Maksat** | Security Engineer | Threat modeling, vulnerability analysis, cryptographic verification, security design |
 | **Suleimenova Dilnaz** | Backend Developer | API implementation, auth logic, JWT/TOTP integration, database layer |
-| **Amangeldiyev Aidos** | Frontend Developer | UI development, login/register flow, QR code rendering, form validation |
+| **Amangeldiyev Aidos** | Frontend Developer | UI development, login/register flow, form validation |
 
 ---
 
