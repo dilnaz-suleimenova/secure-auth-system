@@ -1,7 +1,7 @@
 # Secure Authentication System  
 Multi-factor authentication system implementing Password + TOTP + JWT for strong user security.  
-Developed as part of the SDU Cryptography Course — Option 3: Secure Authentication System.
-
+You can see the presentation in link: https://www.canva.com/design/DAG6tzzOEeY/RwC4W6IRQnwqPZExmbN4Fg/edit?utm_content=DAG6tzzOEeY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+And documentation in /docs folder (you can read description in Documentation part below)
 ---
 
 ## Overview
